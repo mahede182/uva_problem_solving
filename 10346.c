@@ -5,6 +5,7 @@
 
  */
 #include<stdio.h>
+#include<string.h>
 int main(){
     int n, k, total;
     while(scanf("%d%d")==2){
